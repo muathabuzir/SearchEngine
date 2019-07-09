@@ -68,9 +68,9 @@ sp_mawdoo3_laravel_cx=CX
     - Follow *Select Search Engine* Steps. 
 
 - *Select Search Engine:*
-    - Get *Search Engine ID* and save it in *.inv* file *sp_mawdoo3_laravel_cx*
-    - Get *Key* from <a href="https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key">https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key</a>  and save it in *.inv* file *sp_mawdoo3_laravel_key*
-    - Get *API Link* from <a href="https://developers.google.com/custom-search/v1/using_rest">https://developers.google.com/custom-search/v1/using_rest</a> and save it in *.inv* file *sp_mawdoo3_laravel_url*
+    - Get *Search Engine ID* and save it in <strong>.env</strong> file *sp_mawdoo3_laravel_cx*
+    - Get *Key* from <a href="https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key">https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key</a>  and save it in <strong>.env</strong> file *sp_mawdoo3_laravel_key*
+    - Get *API Link* from <a href="https://developers.google.com/custom-search/v1/using_rest">https://developers.google.com/custom-search/v1/using_rest</a> and save it in <strong>.env</strong> file *sp_mawdoo3_laravel_url*
 
 > May need to restart the server
 
