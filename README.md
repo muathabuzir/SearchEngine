@@ -28,6 +28,7 @@ composer require mawdoo3searchenginepackage/searchresults
 ## Setup
 
 Run below command for migrate database:
+> Make Sure you are connected with database
 
 ```shell
 php artisan migrate
