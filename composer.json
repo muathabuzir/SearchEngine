@@ -10,7 +10,6 @@
             "Mawdoo3\\SearchResults\\": "src/"
         },
         "classmap": [
-          "database",
           "vendor/mawdoo3packagetest/searchresults/src/Migrations"
         ]
     },
@@ -20,11 +19,6 @@
                 "Mawdoo3\\SearchResults\\sp_mawdoo3_laravel"
             ]
         }
-    },
-    "scripts": {
-        "migrate": [
-            "php artisan vendor:publish vendor/package/mawdoo3packagetest"
-        ]
     }
 
 }
