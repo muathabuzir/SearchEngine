@@ -4,6 +4,7 @@
     "type": "library",
     "lincense": "MIT",
     "minimum-stability": "dev",
+"a":"a",
     "require": {},
     "autoload": {
         "psr-4": {
