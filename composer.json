@@ -1,7 +1,8 @@
 {
-    "name": "mawdoo3/searchresults",
+    "name": "mawdooPackage/searchresults",
     "description": "Get First 10 result from google providers and make user save it with comments",
-    "type": "composer-plugin",
+    "type": "library",
+    "lincense": "MIT"
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
