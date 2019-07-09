@@ -1,6 +1,6 @@
 # Search Servise
 
-> Search using google service and save result, and comment and delete it.
+> Search using google service and save result, comment and delete it.
 
 ** Installation Steps **
 
