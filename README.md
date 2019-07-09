@@ -22,7 +22,7 @@ open terminal and go to you project, Make Project root of terminal, Ex:
 Run Command Below:
 
 ```shell
-composer require mawdoo3searchpackagetest/searchresults
+composer require mawdoo3searchenginepackage/searchresults
 ```
 
 ## Setup
