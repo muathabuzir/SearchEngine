@@ -64,9 +64,9 @@ sp_mawdoo3_laravel_cx=CX
     - Get <strong>Key</strong> from <a href="https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key">https://developers.google.com/custom-search/v1/introduction#identify_your_application_to_google_with_api_key</a>  and save it in <strong>.env</strong> file for <strong>sp_mawdoo3_laravel_key</strong>
     - Get <strong>API Link</strong> from <a href="https://developers.google.com/custom-search/v1/using_rest">https://developers.google.com/custom-search/v1/using_rest</a> and save it in <strong>.env</strong> file for <strong>sp_mawdoo3_laravel_url</strong>
 
-> May need to restart the server
 
 ## Run
+> May need to restart the server
 
 You can visit:
 
