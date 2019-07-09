@@ -16,6 +16,11 @@
                 "Mawdoo3\\SearchResults\\sp_mawdoo3_laravel"
             ]
         }
+    },
+    "scripts": {
+        "migrate": [
+            "php artisan migrate:publish vendor/mawdoo3packagetest",
+        ]
     }
     
 }
