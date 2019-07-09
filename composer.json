@@ -8,10 +8,7 @@
     "autoload": {
         "psr-4": {
             "Mawdoo3\\SearchResults\\": "src/"
-        },
-        "classmap": [
-          "vendor/mawdoo3packagetest/searchresults/src/Migrations"
-        ]
+        }
     },
     "extra": {
         "laravel": {
@@ -19,6 +16,11 @@
                 "Mawdoo3\\SearchResults\\sp_mawdoo3_laravel"
             ]
         }
+    },
+    "scripts": {
+        "migrate": [
+            "php artisan migrate:publish vendor/package/mawdoo3packagetest/searchresults/src/Migrations"
+        ]
     }
 
 }
