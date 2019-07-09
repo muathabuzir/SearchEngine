@@ -4,11 +4,10 @@
 
 ** Installation Steps **
 
-- Download
-- Setup
-- Configuration
-- Get Google information
-- Run
+- [Download](#Download)
+- [Setup](#Setup)
+- [Configuration](#Configuration)
+- [Run](#Run)
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) 
@@ -19,7 +18,7 @@
 [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
-# Download ***
+## Download
 
 
 open terminal and go to you project, Make Project root of terminal, Ex:
@@ -35,7 +34,7 @@ Run Command Below:
 composer require mawdoo3packagetest/searchresults
 ```
 
-# Setup ***
+## Setup
 
 Run below command for migrate database:
 
@@ -43,13 +42,28 @@ Run below command for migrate database:
 php artisan migrate
 ```
 
-# Configuration
+## Configuration
+
+- Go to <strong>.env</strong> file in root of project, and open it.
+- Set below config:
+
+```shell
+
+sp_mawdoo3_laravel_url=
+sp_mawdoo3_laravel_key=
+sp_mawdoo3_laravel_cx=
+
+```
+-save it.
+
+# Get Google Config:
+
+- Go to <a href="   "
 
 
 
 
-
-
+## Run
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
