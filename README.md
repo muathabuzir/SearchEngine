@@ -2,7 +2,7 @@
 
 > Search using google service and save result, comment and delete it.
 
-** Installation Steps **
+**Installation Steps**
 
 - [Download](#Download)
 - [Setup](#Setup)
