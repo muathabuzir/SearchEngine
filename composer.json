@@ -1,5 +1,5 @@
 {
-    "name": "mawdoopackage/searchresults",
+    "name": "mawdoopackagetest/searchresults",
     "description": "Get First 10 result from google providers and make user save it with comments",
     "type": "library",
     "lincense": "MIT",
@@ -8,6 +8,13 @@
     "autoload": {
         "psr-4": {
             "Mawdoo3\\SearchResults\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mawdoo3\\SearchResults\\sp_mawdoo3_laravel"
+            ]
         }
     }
     
