@@ -21,7 +21,20 @@
 *** Download ***
 
 
-open terminal and go to you project.
+open terminal and go to you project, Make Project root of terminal, Ex:
+
+
+```shell
+../../ProjectName$
+```
+
+Run Command Below:
+
+```shell
+composer require mawdoo3packagetest/searchresults
+```
+
+
 
 
 
