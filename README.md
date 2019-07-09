@@ -19,7 +19,7 @@
 [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
-*** Download ***
+# Download ***
 
 
 open terminal and go to you project, Make Project root of terminal, Ex:
@@ -35,14 +35,15 @@ Run Command Below:
 composer require mawdoo3packagetest/searchresults
 ```
 
-*** Setup ***
+# Setup ***
 
-after that Run Below Commad for Migrate Database:
+Run below command for migrate database:
 
 ```shell
 php artisan migrate
 ```
 
+# Configuration
 
 
 
