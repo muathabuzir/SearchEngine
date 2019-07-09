@@ -5,8 +5,9 @@
 ** Installation Steps **
 
 - Download
-- Configration
-- Get Google inforamtion
+- Setup
+- Configuration
+- Get Google information
 - Run
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
@@ -33,6 +34,15 @@ Run Command Below:
 ```shell
 composer require mawdoo3packagetest/searchresults
 ```
+
+*** Setup ***
+
+after that Run Below Commad for Migrate Database:
+
+```shell
+php artisan migrate
+```
+
 
 
 
