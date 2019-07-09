@@ -1,5 +1,5 @@
 {
-    "name": "mawdoopackagetest/searchresults",
+    "name": "mawdoo3packagetest/searchresults",
     "description": "Get First 10 result from google providers and make user save it with comments",
     "type": "library",
     "lincense": "MIT",
