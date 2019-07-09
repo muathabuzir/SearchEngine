@@ -54,7 +54,7 @@ sp_mawdoo3_laravel_cx=CX
 ```
 - Save it.
 
-# Get Google Config:
+** Get Google Config **
 
 - Go to <a href="   "
 
