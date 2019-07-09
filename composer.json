@@ -19,7 +19,7 @@
     },
     "scripts": {
         "migrate": [
-            "php artisan migrate:publish vendor/mawdoo3packagetest"
+            "php artisan migrate --path=vendor/mawdoo3packagetest/searchresults/src/Migrations"
         ]
     }
     
