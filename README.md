@@ -48,13 +48,11 @@ php artisan migrate
 - Set below config:
 
 ```shell
-
-sp_mawdoo3_laravel_url=
-sp_mawdoo3_laravel_key=
-sp_mawdoo3_laravel_cx=
-
+sp_mawdoo3_laravel_url=URL
+sp_mawdoo3_laravel_key=Key
+sp_mawdoo3_laravel_cx=CX
 ```
--save it.
+- Save it.
 
 # Get Google Config:
 
